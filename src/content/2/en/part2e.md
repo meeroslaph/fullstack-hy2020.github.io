@@ -236,8 +236,6 @@ Next, we could add a "bottom block" to our application by creating a <i>Footer</
 const Footer = () => {
   const footerStyle = {
     color: 'green',
-    fontStyle: 'italic',
-    fontSize: 16
   }
 
   return (
